@@ -1,7 +1,7 @@
 # Web_Programming_Laboratory-Univassouras p1
 
 1. [Curriculo ](https://github.com/Luann8/curriculo-1.1)
-1.2. [Chat Luann](https://luann8.github.io/Chat-Luann/)
+1.2. [Chat Luann Curriculo 3](https://luann8.github.io/Chat-Luann/)
 1.3. [Curriculo 2](https://luann8.github.io/Curriculo2/)
 2. [Yoga fictício](https://luann8.github.io/Yoga-ficticio/)
 3. [Palestra fictícia ](https://github.com/Luann8/Palestra-ficiticio)
