@@ -4,9 +4,9 @@
 1.2. [Chat Luann](https://luann8.github.io/Chat-Luann/)
 1.3. [Curriculo 2](https://luann8.github.io/Curriculo2/)
 2. [Yoga fictício](https://luann8.github.io/Yoga-ficticio/)
-3. [Palestra fictícia GitHub](https://github.com/Luann8/Palestra-ficiticio)
-4. [Cafeteria fictícia GitHub](https://github.com/Luann8/Cafeteria-ficticia)
-5. [The Anti-Flag homenagem GitHub](https://github.com/Luann8/The-Anti-Flag-homenagem)
+3. [Palestra fictícia ](https://github.com/Luann8/Palestra-ficiticio)
+4. [Cafeteria fictícia ](https://github.com/Luann8/Cafeteria-ficticia)
+5. [The Anti-Flag homenagem ](https://github.com/Luann8/The-Anti-Flag-homenagem)
 
  [Bora Cata 1.2](https://luann8.github.io/Bora-Cata-1.2/)
 
