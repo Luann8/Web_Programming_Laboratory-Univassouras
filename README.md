@@ -1,11 +1,11 @@
-# Web_Programming_Laboratory-Univassouras p2
+# Web Programming Laboratory Univassouras p1
 
 1. [Yoga fictício](https://luann8.github.io/Yoga-ficticio/)
 2. [Palestra fictícia GitHub](https://github.com/Luann8/Palestra-ficiticio)
 3. [Cafeteria fictícia GitHub](https://github.com/Luann8/Cafeteria-ficticia)
 4. [The Anti-Flag homenagem GitHub](https://github.com/Luann8/The-Anti-Flag-homenagem)
 
-# Web_Programming_Laboratory-Univassouras p2
+# Web Programming Laboratory Univassouras p2
 
 1. [Quiz de Conhecimentos Gerais](https://luann8.github.io/Quiz-de-Conhecimentos-Gerais/)
 2. [To-Do List ou Lista de Tarefas](https://luann8.github.io/To-Do-List-ou-Lista-de-Tarefas/)
