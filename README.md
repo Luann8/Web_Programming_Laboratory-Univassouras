@@ -1,9 +1,12 @@
 # Web Programming Laboratory Univassouras p1
+1. [Curriculum GitHub](https://github.com/Luann8/curriculo-1.1)
+1.2. [Chat Luann](https://luann8.github.io/Chat-Luann/)
+1.3. [Curriculum 2](https://luann8.github.io/Curriculo2/)
 
-1. [Yoga fictício](https://luann8.github.io/Yoga-ficticio/)
-2. [Palestra fictícia GitHub](https://github.com/Luann8/Palestra-ficiticio)
-3. [Cafeteria fictícia GitHub](https://github.com/Luann8/Cafeteria-ficticia)
-4. [The Anti-Flag homenagem GitHub](https://github.com/Luann8/The-Anti-Flag-homenagem)
+2. [Yoga fictício](https://luann8.github.io/Yoga-ficticio/)
+3. [Palestra fictícia GitHub](https://github.com/Luann8/Palestra-ficiticio)
+4. [Cafeteria fictícia GitHub](https://github.com/Luann8/Cafeteria-ficticia)
+5. [The Anti-Flag homenagem GitHub](https://github.com/Luann8/The-Anti-Flag-homenagem)
 
 # Web Programming Laboratory Univassouras p2
 
