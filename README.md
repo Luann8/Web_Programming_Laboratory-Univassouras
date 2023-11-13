@@ -1,4 +1,4 @@
-# Web_Programming_Laboratory-Univassouras p1
+# Web Programming Laboratory Univassouras p1
 
 1. [Curriculo ](https://github.com/Luann8/curriculo-1.1)
 1.2. [Curriculo 2](https://luann8.github.io/Curriculo2/)
@@ -10,7 +10,7 @@
 
  [Bora Cata 1.2](https://luann8.github.io/Bora-Cata-1.2/)
 
-# Web_Programming_Laboratory-Univassouras p2
+# Web Programming Laboratory Univassouras p2
 
 6. [Conversor de Temperatura](https://luann8.github.io/Conversor-de-temperatura/)
 7. [Contador de Caracteres](https://luann8.github.io/Contador-de-Caracteres/)
