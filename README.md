@@ -3,7 +3,7 @@
 1. [Curriculo ](https://github.com/Luann8/curriculo-1.1)
 1.2. [Curriculo 2](https://luann8.github.io/Curriculo2/)
 1.3. [Chat Luann Curriculo 3](https://luann8.github.io/Chat-Luann/).
-2.1. [Cafeteria fictícia ](https://github.com/Luann8/Cafeteria-ficticia)
+2. [Cafeteria fictícia ](https://github.com/Luann8/Cafeteria-ficticia)
 2.2. [Palestra fictícia ](https://github.com/Luann8/Palestra-ficiticio)
 2.3.[Yoga fictício](https://luann8.github.io/Yoga-ficticio/)
 3. [The Anti-Flag homenagem ](https://github.com/Luann8/The-Anti-Flag-homenagem)
