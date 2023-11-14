@@ -6,7 +6,6 @@
 2.1. [Cafeteria fictícia ](https://github.com/Luann8/Cafeteria-ficticia)
 2.2. [Palestra fictícia ](https://github.com/Luann8/Palestra-ficiticio)
 2.3.[Yoga fictício](https://luann8.github.io/Yoga-ficticio/)
-
 3. [The Anti-Flag homenagem ](https://github.com/Luann8/The-Anti-Flag-homenagem)
 
  [Bora Cata 1.2](https://luann8.github.io/Bora-Cata-1.2/)
