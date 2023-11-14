@@ -32,6 +32,3 @@
  <img align="center" alt="React" height="30" width="40" src="https://github.com/Luann8/Web_Programming_Laboratory-Univassouras/blob/main/universidade%20de%20vassouras%20Vertical.svg" >
 
 </div>
-
-
-https://github.com/Luann8/Web_Programming_Laboratory-Univassouras/blob/main/universidade%20de%20vassouras%20Vertical.svg
